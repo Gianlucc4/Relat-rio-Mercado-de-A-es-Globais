@@ -6,7 +6,7 @@ Análise de desempenho e risco de índices e ativos globais entre 2020 e 2022, d
 [Clique aqui para visualizar o dashboard no Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNDNjODUxY2EtOGRlYy00ZmQxLTllOWMtYWEyYjEzYmQ0NDkxIiwidCI6ImJkYzFhN2YzLTRmMTEtNGRlMS1hMzViLWMxOTEzMmI3MzY5YSJ9&pageName=726a4053de2836c76130)
 
 ## 📋 Sobre o Projeto
-Este projeto analisa o comportamento de índices e ativos do mercado financeiro global entre 2020 e 2022, permitindo comparar desempenho, risco e retorno entre diferentes mercados ao longo do período.
+Este projeto analisa o comportamento de índices e ativos do mercado financeiro global entre 2020 e 2022, permitindo comparar desempenho, risco e retorno entre diferentes ativos ao longo do período.
 
 A estrutura de dados foi construída em SQL Server antes da conexão com o Power BI, seguindo modelagem dimensional com tabelas staging, fato e dimensões.
 
